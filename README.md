@@ -2,7 +2,7 @@
 A script that users can load on remote systems as a back up to kill rogue processes
 
 ## Purpose 
-Tool to help a Sys Ad with maintaing a system with rogue processes. Main idea is you can't get to the box with conventional methods but you can remote in. This becomes a valuable script in those cases with is easily modifiable
+Tool to help a Sys Ad with maintaing a system with rogue processes. Main idea is you can't get to the box with conventional methods but you can remote in. This becomes a valuable script in those cases with it being easily modifiable.
 
 ## Get the Script
 Download via GitHub 

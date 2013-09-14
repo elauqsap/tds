@@ -8,7 +8,7 @@ Tool to help a Sys Ad with maintaing a system with rogue processes. Main idea is
 Download via GitHub 
 or
 ```bash
-$ curl -L https://raw.github.com/pasqualedagostino/tds/master/tds.sh > tds.sh
+$ curl -L https://raw.github.com/elauqsap/tds/master/tds.sh > tds.sh
 ```
 then
 ```bash
